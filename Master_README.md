@@ -88,3 +88,5 @@ Spatial Join Script:
 Apply spatial enrichments to the master feature service.
 Smartsheet Data Integrator:
 Synchronize external Smartsheet data with GIS feature services.
+5. Maximum Likelihood Classification
+Purpose: This script implements a Maximum Likelihood Classification (MLC) algorithm combined with region growing for multispectral raster images. It is designed for remote sensing workflows to classify land cover based on spectral properties. Using user-defined seed points, the script grows regions based on spectral similarity and computes statistical parameters (mean vectors and covariance matrices) for each class. Each pixel is then classified into the most likely class using a multivariate Gaussian distribution. The output is a classified raster image that can be used for land cover analysis or feature extraction in remote sensing projects.
