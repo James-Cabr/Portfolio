@@ -1,6 +1,6 @@
 # Portfolio
 Overview
-This repository contains scripts designed to streamline GIS workflows for feature service management, reporting, and data integration. These scripts use ArcPy, Python, and integrations like Smartsheet to automate data handling and communication. While each script is independent, they can work together to create a cohesive data management workflow.
+This repository contains scripts designed to streamline GIS workflows for feature service management, reporting, data integration, and remote sensing classification. These scripts use ArcPy, Python, and integrations like Smartsheet to automate data handling and communication. While each script is independent, they can work together to create a cohesive data management workflow.
 
 Scripts Overview
 1. Daily Submission Emailer
